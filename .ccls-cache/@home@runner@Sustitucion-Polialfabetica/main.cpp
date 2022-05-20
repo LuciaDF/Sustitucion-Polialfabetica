@@ -15,7 +15,7 @@ struct PoliAlf
     int m;
     int d;
     
-}pn1;
+}pn1,pn2;
 
 int BusquedaNum(char x);
 void Mayuscula(char x[]);
